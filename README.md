@@ -4,9 +4,11 @@
 
 ## Motivation
 
-### Models
+## Models
 
-#### Existing Language Model
+### Existing Language Model
 
-#### Recurrent Neural Network
+### Recurrent Neural Network
 RNN used: https://github.com/spiglerg/RNN_Text_Generation_Tensorflow
+
+## Credits
