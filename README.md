@@ -216,12 +216,12 @@ i know that the heat goes on
 ### N-Grams Found when Comparing Original Text with Machine Output: 
 
   n    length  sentence
----  --------  ------------------------------------------------------------------------------------------------------------------------------------
+---  --------  ---------------------------------------------------------------------------------------------------------------
  26       132  head alone inside my tiny little world it 's not my life in those old pictures the ones you threw away for i was always someone else
  26       131  alone inside my tiny little world it 's not my life in those old pictures the ones you threw away for i was always someone else and
 
   n    length  sentence
----  --------  --------------------------------------------------------------------------------------------------------------------------------------
+---  --------  ---------------------------------------------------------------------------------------------------------------
  25       130  my head alone inside my tiny little world it 's not my life in those old pictures the ones you threw away for i was always someone
  25       132  inside my tiny little world it 's not my life in those old pictures the ones you threw away for i was always someone else and always
  25       134  little world it 's not my life in those old pictures the ones you threw away for i was always someone else and always far away walking
@@ -230,12 +230,12 @@ i know that the heat goes on
  25       129  my tiny little world it 's not my life in those old pictures the ones you threw away for i was always someone else and always far
 
   n    length  sentence
----  --------  ----------------------------------------------------------------------------------------------------------------------------------
+---  --------  ---------------------------------------------------------------------------------------------------------------
  24       129  inside my head alone inside my tiny little world it 's not my life in those old pictures the ones you threw away for i was always
  24       130  world it 's not my life in those old pictures the ones you threw away for i was always someone else and always far away walking in
 
   n    length  sentence
----  --------  --------------------------------------------------------------------------------------------------------------------------------------------------
+---  --------  ---------------------------------------------------------------------------------------------------------------
  23       128  alone inside my head alone inside my tiny little world it 's not my life in those old pictures the ones you threw away for i was
  23       146  those old pictures the ones you threw away for i was always someone else and always far away walking in the darkest places where the mission meets
  23       129  feel alone inside my head alone inside my tiny little world it 's not my life in those old pictures the ones you threw away for i
@@ -247,34 +247,34 @@ i know that the heat goes on
  23       130  room i feel alone inside my head alone inside my tiny little world it 's not my life in those old pictures the ones you threw away
 
   n    length  sentence
----  --------  -----------------------------------------------------------------------------------------------------------------------------------------------
+---  --------  ---------------------------------------------------------------------------------------------------------------
  22       128  my room i feel alone inside my head alone inside my tiny little world it 's not my life in those old pictures the ones you threw
  22       143  in those old pictures the ones you threw away for i was always someone else and always far away walking in the darkest places where the mission
  22       140  life in those old pictures the ones you threw away for i was always someone else and always far away walking in the darkest places where the
 
   n    length  sentence
----  --------  ---------------------------------------------------------------------------------------------------------------------------------
+---  --------  ---------------------------------------------------------------------------------------------------------------
  21       129  inside my room i feel alone inside my head alone inside my tiny little world it 's not my life in those old pictures the ones you
 
   n    length  sentence
----  --------  -----------------------------------------------------------------------------------------------------------------------------------
+---  --------  ---------------------------------------------------------------------------------------------------------------
  20       131  alone inside my room i feel alone inside my head alone inside my tiny little world it 's not my life in those old pictures the ones
 
   n    length  sentence
----  --------  -----------------------------------------------------------------------------------------------------------------------------------
+---  --------  ---------------------------------------------------------------------------------------------------------------
  19       131  head alone inside my room i feel alone inside my head alone inside my tiny little world it 's not my life in those old pictures the
 
   n    length  sentence
----  --------  ----------------------------------------------------------------------------------------------------------------------------------
+---  --------  ---------------------------------------------------------------------------------------------------------------
  18       130  my head alone inside my room i feel alone inside my head alone inside my tiny little world it 's not my life in those old pictures
 
   n    length  sentence
----  --------  --------------------------------------------------------------------------------------------------------------------------------------
+---  --------  ---------------------------------------------------------------------------------------------------------------
  17       134  pockets full of sand alone inside my head alone inside my room i feel alone inside my head alone inside my tiny little world it 's not
  17       128  inside my head alone inside my room i feel alone inside my head alone inside my tiny little world it 's not my life in those old
 
   n    length  sentence
----  --------  -------------------------------------------------------------------------------------------------------------------------------------------
+---  --------  ---------------------------------------------------------------------------------------------------------------
  16       129  of sand alone inside my head alone inside my room i feel alone inside my head alone inside my tiny little world it 's not my life
  16       115  walked out of the silver mine my pockets full of sand alone inside my head alone inside my room i feel alone inside
  16       132  for the ground to open up beneath my feet alone inside my head alone inside my room i feel alone inside my head alone inside my tiny
@@ -293,7 +293,7 @@ i know that the heat goes on
  16       129  full of sand alone inside my head alone inside my room i feel alone inside my head alone inside my tiny little world it 's not my
 
   n    length  sentence
----  --------  -------------------------------------------------------------------------------------------------------------------------------------
+---  --------  ---------------------------------------------------------------------------------------------------------------
  15       133  of the silver mine my pockets full of sand alone inside my head alone inside my room i feel alone inside my head alone inside my tiny
  15       132  out of the silver mine my pockets full of sand alone inside my head alone inside my room i feel alone inside my head alone inside my
 
