@@ -215,67 +215,67 @@ i know that the heat goes on
 
 ### N-Grams Found when Comparing Original Text with Machine Output: 
 
-  n    length  sentence
+  n  sentence
 ---  --------  ---------------------------------------------------------------------------------------------------------------
- 26       132  head alone inside my tiny little world it 's not my life in those old pictures the ones you threw away for i was always someone else
+ 26  head alone inside my tiny little world it 's not my life in those old pictures the ones you threw away for i was always someone else
  
- 26       131  alone inside my tiny little world it 's not my life in those old pictures the ones you threw away for i was always someone else and
+ 26  alone inside my tiny little world it 's not my life in those old pictures the ones you threw away for i was always someone else and
 
-  n    length  sentence
+  n  sentence
 ---  --------  ---------------------------------------------------------------------------------------------------------------
- 25       130  my head alone inside my tiny little world it 's not my life in those old pictures the ones you threw away for i was always someone
+ 25  my head alone inside my tiny little world it 's not my life in those old pictures the ones you threw away for i was always someone
  
- 25       132  inside my tiny little world it 's not my life in those old pictures the ones you threw away for i was always someone else and always
+ 25  inside my tiny little world it 's not my life in those old pictures the ones you threw away for i was always someone else and always
  
- 25       134  little world it 's not my life in those old pictures the ones you threw away for i was always someone else and always far away walking
+ 25  little world it 's not my life in those old pictures the ones you threw away for i was always someone else and always far away walking
  
- 25       131  tiny little world it 's not my life in those old pictures the ones you threw away for i was always someone else and always far away
+ 25  tiny little world it 's not my life in those old pictures the ones you threw away for i was always someone else and always far away
  
- 25       126  tiny little world it 's not my life in those old pictures the ones you threw away for i was always someone else and always far
+ 25  tiny little world it 's not my life in those old pictures the ones you threw away for i was always someone else and always far
  
- 25       129  my tiny little world it 's not my life in those old pictures the ones you threw away for i was always someone else and always far
+ 25  my tiny little world it 's not my life in those old pictures the ones you threw away for i was always someone else and always far
 
-  n    length  sentence
+  n  sentence
 ---  --------  ---------------------------------------------------------------------------------------------------------------
- 24       129  inside my head alone inside my tiny little world it 's not my life in those old pictures the ones you threw away for i was always
+ 24  inside my head alone inside my tiny little world it 's not my life in those old pictures the ones you threw away for i was always
  
- 24       130  world it 's not my life in those old pictures the ones you threw away for i was always someone else and always far away walking in
+ 24  world it 's not my life in those old pictures the ones you threw away for i was always someone else and always far away walking in
 
-  n    length  sentence
+  n  sentence
 ---  --------  ---------------------------------------------------------------------------------------------------------------
- 23       128  alone inside my head alone inside my tiny little world it 's not my life in those old pictures the ones you threw away for i was
+ 23  alone inside my head alone inside my tiny little world it 's not my life in those old pictures the ones you threw away for i was
  
- 23       146  those old pictures the ones you threw away for i was always someone else and always far away walking in the darkest places where the mission meets
+ 23  those old pictures the ones you threw away for i was always someone else and always far away walking in the darkest places where the mission meets
  
- 23       129  feel alone inside my head alone inside my tiny little world it 's not my life in those old pictures the ones you threw away for i
+ 23  feel alone inside my head alone inside my tiny little world it 's not my life in those old pictures the ones you threw away for i
 
- 23       129  i feel alone inside my head alone inside my tiny little world it 's not my life in those old pictures the ones you threw away for
+ 23  i feel alone inside my head alone inside my tiny little world it 's not my life in those old pictures the ones you threw away for
  
- 23       128  it 's not my life in those old pictures the ones you threw away for i was always someone else and always far away walking in the
+ 23  it 's not my life in those old pictures the ones you threw away for i was always someone else and always far away walking in the
  
- 23       137  not my life in those old pictures the ones you threw away for i was always someone else and always far away walking in the darkest places
+ 23  not my life in those old pictures the ones you threw away for i was always someone else and always far away walking in the darkest places
  
- 23       139  my life in those old pictures the ones you threw away for i was always someone else and always far away walking in the darkest places where
+ 23  my life in those old pictures the ones you threw away for i was always someone else and always far away walking in the darkest places where
  
- 23       133  's not my life in those old pictures the ones you threw away for i was always someone else and always far away walking in the darkest
+ 23  's not my life in those old pictures the ones you threw away for i was always someone else and always far away walking in the darkest
  
- 23       130  room i feel alone inside my head alone inside my tiny little world it 's not my life in those old pictures the ones you threw away
+ 23  room i feel alone inside my head alone inside my tiny little world it 's not my life in those old pictures the ones you threw away
 
-  n    length  sentence
+  n  sentence
 ---  --------  ---------------------------------------------------------------------------------------------------------------
- 22       128  my room i feel alone inside my head alone inside my tiny little world it 's not my life in those old pictures the ones you threw
+ 22  my room i feel alone inside my head alone inside my tiny little world it 's not my life in those old pictures the ones you threw
  
- 22       143  in those old pictures the ones you threw away for i was always someone else and always far away walking in the darkest places where the mission
+ 22  in those old pictures the ones you threw away for i was always someone else and always far away walking in the darkest places where the mission
  
- 22       140  life in those old pictures the ones you threw away for i was always someone else and always far away walking in the darkest places where the
+ 22  life in those old pictures the ones you threw away for i was always someone else and always far away walking in the darkest places where the
 
-  n    length  sentence
+  n  sentence
 ---  --------  ---------------------------------------------------------------------------------------------------------------
- 21       129  inside my room i feel alone inside my head alone inside my tiny little world it 's not my life in those old pictures the ones you
+ 21  inside my room i feel alone inside my head alone inside my tiny little world it 's not my life in those old pictures the ones you
 
-  n    length  sentence
+  n  sentence
 ---  --------  ---------------------------------------------------------------------------------------------------------------
- 20       131  alone inside my room i feel alone inside my head alone inside my tiny little world it 's not my life in those old pictures the ones
+ 20  alone inside my room i feel alone inside my head alone inside my tiny little world it 's not my life in those old pictures the ones
 
 
 ## Credits
