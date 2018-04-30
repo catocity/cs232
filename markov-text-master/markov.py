@@ -6,7 +6,7 @@ from rnd import Rnd
 import sys
 import sqlite3
 import codecs
-import os # added by Catherine Chen
+# import os # added by Catherine Chen
 
 SENTENCE_SEPARATOR = '.'
 WORD_SEPARATOR = ' '
@@ -35,7 +35,8 @@ if __name__ == '__main__':
 		Parser(name, db, SENTENCE_SEPARATOR, WORD_SEPARATOR).parse(txt)
 	
 	elif mode == 'gen':
-		file = open(os.path.join(name,".txt"), "w") # added by Catherine Chen
+		print name
+		file = open(name + ".txt", "w") # added by Catherine Chen
 		count = int(args[3])
 		db = Db(sqlite3.connect(name + '.db'), Sql())
 		generator = Generator(name, db, Rnd())
