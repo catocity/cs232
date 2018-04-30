@@ -103,7 +103,8 @@ alone inside my head
 alone inside my room
 i feel alone inside my head
 alone inside my tiny little w
-Example 5:
+
+* Example 5:
 the silver mine
 my pockets full of sand
 alone inside my head
