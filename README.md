@@ -1,9 +1,7 @@
 # Comparing Text Generating Models
 
 ## Background
-This project explores whether algorithms can be creative when learning, based on knowledge from music lyrics. The goal is to use an existing language model to generate song lyrics given a user’s input of genre, year, and/or artist, then evaluate the computer generated lyrics.
-
-The model we chose to use to generate lyrics is a recurrent neural network using Tensorflow, created by Spiglerg (link below). For the evaluation, we used a text comparison tool created by Alimony (link below). 
+This project explores whether algorithms can be creative when learning, based on knowledge from music lyrics. The goal is to compare the performances of two language models: one that uses a Markov Chain and a second that uses a Recurrent Neural Network (RNN). For each model, song lyrics will be generated given a user’s input of genre, year, and/or artist. Performance will be evaluated using two scores. The first will be a comparison of similarities between the training data and the generated songs using a text comparison tool created by Alimony (see link below). The second will be a variation of the Turing test, in which human subjects will be shown lyrics and asked whether or not they think the lyrics were created by a human or a machine. 
 
 ## Motivation
 We would like to better understand how machines generate text and how to recognize machine-generated text in real life. Furthermore, we are exploring bigger questions, like:
@@ -13,6 +11,12 @@ We would like to better understand how machines generate text and how to recogni
 * Are computers demonstrating creativity through the computer-generated lyrics?
 
 ## Models and Tools
+
+### Markov Chain
+
+This model was implemented by Rob Dawson. 
+
+https://github.com/codebox/markov-text
 
 ### Recurrent Neural Network
 We decided to use a recurrent neural network created by Spiglerg to generate the lyrics. We chose this model because it is a simpler version of typical text generating neural networks, using Tensorflow. With the given model, we were able to adjust variables to control run time (and therefore, accuracy).
