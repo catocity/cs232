@@ -214,15 +214,17 @@ and i know, i know the heat goes on
 i know that the heat goes on
 
 ### N-Grams Found when Comparing Original Text with Machine Output: 
-
-  n = 26  
+  
 ---  --------  ---------------------------------------------------------------------------------------------------------------
+ n = 26 
+ 
 head alone inside my tiny little world it 's not my life in those old pictures the ones you threw away for i was always someone else
  
 alone inside my tiny little world it 's not my life in those old pictures the ones you threw away for i was always someone else and
-
-  n = 25  
+ 
 ---  --------  ---------------------------------------------------------------------------------------------------------------
+  n = 25 
+  
 my head alone inside my tiny little world it 's not my life in those old pictures the ones you threw away for i was always someone
  
 inside my tiny little world it 's not my life in those old pictures the ones you threw away for i was always someone else and always
@@ -235,14 +237,16 @@ tiny little world it 's not my life in those old pictures the ones you threw awa
  
 my tiny little world it 's not my life in those old pictures the ones you threw away for i was always someone else and always far
 
-  n = 24
 ---  --------  ---------------------------------------------------------------------------------------------------------------
+ n = 24
+
 inside my head alone inside my tiny little world it 's not my life in those old pictures the ones you threw away for i was always
  
 world it 's not my life in those old pictures the ones you threw away for i was always someone else and always far away walking in
 
-  n = 23
 ---  --------  ---------------------------------------------------------------------------------------------------------------
+  n = 23
+
 alone inside my head alone inside my tiny little world it 's not my life in those old pictures the ones you threw away for i was
  
 those old pictures the ones you threw away for i was always someone else and always far away walking in the darkest places where the mission meets
@@ -261,20 +265,23 @@ my life in those old pictures the ones you threw away for i was always someone e
  
 room i feel alone inside my head alone inside my tiny little world it 's not my life in those old pictures the ones you threw away
 
-  n = 22
 ---  --------  ---------------------------------------------------------------------------------------------------------------
+  n = 22
+
 my room i feel alone inside my head alone inside my tiny little world it 's not my life in those old pictures the ones you threw
  
 in those old pictures the ones you threw away for i was always someone else and always far away walking in the darkest places where the mission
  
 life in those old pictures the ones you threw away for i was always someone else and always far away walking in the darkest places where the
 
-  n = 21
 ---  --------  ---------------------------------------------------------------------------------------------------------------
+  n = 21
+
 inside my room i feel alone inside my head alone inside my tiny little world it 's not my life in those old pictures the ones you
 
-  n = 20
 ---  --------  ---------------------------------------------------------------------------------------------------------------
+  n = 20
+
 alone inside my room i feel alone inside my head alone inside my tiny little world it 's not my life in those old pictures the ones
 
 
