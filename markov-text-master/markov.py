@@ -36,14 +36,16 @@ if __name__ == '__main__':
 	
 	elif mode == 'gen':
 		print name
-		file = open(name + ".txt", "w") # added by Catherine Chen
-		count = int(args[3])
-		db = Db(sqlite3.connect(name + '.db'), Sql())
-		generator = Generator(name, db, Rnd())
-		for i in range(0, count):
-			# print(generator.generate(WORD_SEPARATOR))
-			file.write(generator.generate(WORD_SEPARATOR)) # added by Catherine Chen
-		file.close()
+		sample_count = int(args[4]) # added by Catherine Chen
+		for i in range(0,sample_count): # added by Catherine Chen
+			file = open(name + str(i) + ".txt", "w") # added by Catherine Chen
+			count = int(args[3])
+			db = Db(sqlite3.connect(name + '.db'), Sql())
+			generator = Generator(name, db, Rnd())
+			for i in range(0, count):
+				# print(generator.generate(WORD_SEPARATOR))
+				file.write(generator.generate(WORD_SEPARATOR)) # added by Catherine Chen
+			file.close()
 	
 	else:
 		raise ValueError(usage)
