@@ -25,7 +25,7 @@ We chose to use a recurrent neural network because RNNs can “make use of seque
 
 https://github.com/spiglerg/RNN_Text_Generation_Tensorflow
 
-The following model is a word based model created by hunkim. 
+The following model is a word based model created by hunkim. We wanted to compare the performance of character based and word based models. The model took 3-4 to train on a training set of 5000 songs (filesize approx. 3MB). 
 https://github.com/hunkim/word-rnn-tensorflow
 
 ### Text Comparison Tool
