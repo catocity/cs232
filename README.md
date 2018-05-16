@@ -19,11 +19,14 @@ This model was implemented by Rob Dawson.
 https://github.com/codebox/markov-text
 
 ### Recurrent Neural Network
-We decided to use a recurrent neural network created by Spiglerg to generate the lyrics. We chose this model because it is a simpler version of typical text generating neural networks, using Tensorflow. With the given model, we were able to adjust variables to control run time (and therefore, accuracy).
+We decided to use a recurrent neural network created by Spiglerg to generate the lyrics. We chose this model because it is a simpler version of typical text generating neural networks, using Tensorflow. With the given model, we were able to adjust variables to control run time (and therefore, accuracy). Note: this is a character based model. 
 
 We chose to use a recurrent neural network because RNNs can “make use of sequential information” [1] and have been used to achieve great success in various natural language processing tasks. In particular, recurrent neural networks are powerful for this task because they are able to predict the likelihood of the next letter given the previous letter, meaning the output of the trained model would be the sequence of predicted letters.
 
 https://github.com/spiglerg/RNN_Text_Generation_Tensorflow
+
+The following model is a word based model created by hunkim. 
+https://github.com/hunkim/word-rnn-tensorflow
 
 ### Text Comparison Tool
 
